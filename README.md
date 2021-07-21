@@ -2,7 +2,7 @@
 
 Now you can control your devices over internet.
 
-** Components needed **
+**Components needed**
 * NodeMCU
 * Relay module
 
