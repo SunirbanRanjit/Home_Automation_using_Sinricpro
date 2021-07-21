@@ -17,6 +17,6 @@ Secondly setup Alexa and Google Home
 * Add Sinric Pro to Google.
 * Add Sinric Pro to Alexa.
 
-Finlly connect all the components.
+Finally connect all the components.
 
 ### You are good to go ###
