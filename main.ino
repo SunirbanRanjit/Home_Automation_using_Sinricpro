@@ -20,9 +20,6 @@
 
 #define BAUD_RATE   9600
 
-#define DEBOUNCE_TIME 250
-
-
 typedef struct {     
   int relayPIN;
 } deviceConfig_t;
