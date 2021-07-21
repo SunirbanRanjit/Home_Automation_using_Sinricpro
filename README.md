@@ -14,7 +14,9 @@ Firstly setup something before use
 * Upload to NodeMCU.
 
 Secondly setup Alexa and Google Home
-* Add Sinric Pro to Google
-* Add Sinric Pro to Alexa
+* Add Sinric Pro to Google.
+* Add Sinric Pro to Alexa.
 
-Finlly 
+Finlly connect all the components.
+
+#### You are redy to begin ###
