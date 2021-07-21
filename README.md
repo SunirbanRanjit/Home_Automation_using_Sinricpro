@@ -7,10 +7,10 @@ Now you can control your devices over internet.
 * Relay module
 
 Firstly setup something before use
-* Put your own WIFI credential.
+* Put your own WIFI credentials.
 * Create a account on [Sinric Pro.](https://sinric.pro/)
 * Set up devices in Sinric Pro.
-* Paste the APP_KEY, APP_SECRET, DEVICE_ID in the code.
+* Paste the APP_KEY, APP_SECRET, DEVICE_ID in the code at proper place.
 * Upload to NodeMCU.
 
 Secondly setup Alexa and Google Home
@@ -19,4 +19,4 @@ Secondly setup Alexa and Google Home
 
 Finlly connect all the components.
 
-#### You are redy to begin ###
+#### You are good to go ###
