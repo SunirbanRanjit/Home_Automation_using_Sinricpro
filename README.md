@@ -19,4 +19,4 @@ Secondly setup Alexa and Google Home
 
 Finlly connect all the components.
 
-#### You are good to go ###
+### You are good to go ###
