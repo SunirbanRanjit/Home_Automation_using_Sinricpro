@@ -19,4 +19,8 @@ Secondly setup Alexa and Google Home
 
 Finally connect all the components.
 
+## Here is a breadboard prototype diagram ##
+
+![Circuit diagram](main/circuit_diagram.jpg)
+
 ### You are good to go ###
